@@ -1,0 +1,17 @@
+es:
+  docs:
+    dismissal:
+      id: 'dismissal'
+      icon: 'fa-external-link-square fa-flip-horizontal'
+      class: 'purple-active'
+      title: 'Salidas'
+      instructions_html: ''
+      boxes:
+        # - setup
+        # - dismissal_screen
+        # - dismissal_permissions
+        # - dismissal_times
+        # - dismissed
+        # - modify_dismissals
+        - parent_instructions
+        # - details
