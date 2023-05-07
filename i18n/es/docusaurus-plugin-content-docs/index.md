@@ -1,8 +1,5 @@
-# Introduction
+# Introducción
 
-**EDUDATAS** es una plataforma de apoyo administrativo para instituciones educativas. La plataforma mantiene los datos y genera reportes financieros, academicos y otros.
-
-1. Introducción
 Edudatas es una plataforma de software como servicio (SaaS) diseñada para ayudar a los profesores, estudiantes, padres y administradores a gestionar la información escolar. El sistema permite la entrada y visualización de calificaciones, asistencia, problemas de disciplina, información financiera y horarios. Este manual del usuario guiará a los usuarios a través de las funciones principales de Edudatas y cómo utilizarlas.
 
 2. Registro e inicio de sesión

@@ -1,0 +1,5 @@
+# Financial
+
+EDUDATAS ayuda a las escuelas con el registro financiero proporcionando una lista de las familias que asisten a la escuela y sus registros financieros. Cuando una nueva familia ingresa a la escuela, se creará un registro familiar. A partir de este registro familiar, los estudiantes pueden ingresar al sistema. Según los tipos de matrícula, descuentos y planes de pago establecidos por la escuela, Edudatas calculará cuál sería el total de la matrícula para esta familia. Las entradas para los estados de cuenta de la familia se crearán automáticamente. El administrador escolar puede utilizar estas entradas como predicciones de lo que se cobrará durante el año. A medida que pasa cada mes, los estados de cuenta con estos cargos se pueden enviar a la familia.
+
+Para que EDUDATAS sepa cuánto cobrar y cómo registrarlo, debe configurar ciertas tablas que llevan un registro de las cuentas, descuentos, tarifas de matrícula y planes de pago. Puede acceder a cada una de estas tablas en el menú Financiero.
